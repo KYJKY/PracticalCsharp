@@ -1,0 +1,15 @@
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\bin\Debug\net6.0\PracticalCsharp.exe
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\bin\Debug\net6.0\PracticalCsharp.deps.json
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\bin\Debug\net6.0\PracticalCsharp.runtimeconfig.json
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\bin\Debug\net6.0\PracticalCsharp.dll
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\bin\Debug\net6.0\PracticalCsharp.pdb
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.csproj.AssemblyReference.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.AssemblyInfoInputs.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.AssemblyInfo.cs
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.csproj.CoreCompileInputs.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.dll
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\refint\PracticalCsharp.dll
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.pdb
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\PracticalCsharp.genruntimeconfig.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\PracticalCsharp\obj\Debug\net6.0\ref\PracticalCsharp.dll
