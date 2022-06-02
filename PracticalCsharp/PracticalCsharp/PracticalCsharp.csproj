@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>PracticalCsharp._1장_객체지향_프로그래밍_기초.Ex003</StartupObject>
   </PropertyGroup>
 
 </Project>
