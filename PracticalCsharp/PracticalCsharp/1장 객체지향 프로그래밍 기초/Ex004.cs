@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PracticalCsharp._1장_객체지향_프로그래밍_기초
 {
-    // 정적 멤버와 정적 클래스
+    // 1.4 정적 멤버와 정적 클래스
     internal class Ex004
     {
         static void Main(string[] args)
@@ -24,11 +24,16 @@ namespace PracticalCsharp._1장_객체지향_프로그래밍_기초
              * 2. '형 이름.메서드'
              * 
              * 인스턴스를 생성하지 않고 사용할 수 있다.
-             * 그러므로 어떤 특정한 인스턴스에 대한 고유한 내용이 아닌 경우에 사용하는 것이 적합하다.
-             * 
+             * 그러므로 어떤 특정한 인스턴스에 대한 고유한 내용이 아닌 경우에 사용하는 것이 적합하다. 
+             * > 다시말해, 오늘 날짜를 구하기 위해 DateTime 객체(인스턴스)를 생성하지 않고 바로 DateTime.Today만 사용하면 구할 수 있다.
+             * > DateTime.Today는 어떤 특정 객체의 고유한 내용이 아니기 때문에 적합하다. 
+             * > 더 풀어서 말하면: 그 어떤 객체더라도 '오늘 날짜'는 변함이 없기 때문에 '오늘 날짜'에 대한 정적 멤버인 DateTime.Today를 구현한다.
+             *
              */
 
 
+            // 정적 클래스 > 인스턴스를 생성할 수 없다. > 인스턴스를 생성하는 의미가 없다. 
+            Console con = new Console();    // Console은 정적 클래스기 때문에 인스턴스를 생성할 수 없다.
         }
     }
 }
