@@ -33,7 +33,7 @@ namespace PracticalCsharp._1장_객체지향_프로그래밍_기초
 
 
             // 정적 클래스 > 인스턴스를 생성할 수 없다. > 인스턴스를 생성하는 의미가 없다. 
-            Console con = new Console();    // Console은 정적 클래스기 때문에 인스턴스를 생성할 수 없다.
+            //Console con = new Console();    // Console은 정적 클래스기 때문에 인스턴스를 생성할 수 없다.
         }
     }
 }
