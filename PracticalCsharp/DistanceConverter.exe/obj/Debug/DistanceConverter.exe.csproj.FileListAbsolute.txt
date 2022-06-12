@@ -1,0 +1,8 @@
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\bin\Debug\DistanceConverter.exe.exe.config
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\bin\Debug\DistanceConverter.exe.exe
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\bin\Debug\DistanceConverter.exe.pdb
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\obj\Debug\DistanceConverter.exe.csproj.AssemblyReference.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\obj\Debug\DistanceConverter.exe.csproj.SuggestedBindingRedirects.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\obj\Debug\DistanceConverter.exe.csproj.CoreCompileInputs.cache
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\obj\Debug\DistanceConverter.exe.exe
+E:\class\csharp\PracticalCsharp\PracticalCsharp\DistanceConverter.exe\obj\Debug\DistanceConverter.exe.pdb
